@@ -1,11 +1,10 @@
 #!/usr/bin/python
 #bot info
-#clientid 528652003371515904
-#clientkey Vv6Y7tn1TWadCs8IxaJBeOVFhVrRazba
-#clientoken NTI4NjUyMDAzMzcxNTE1OTA0.Dwl5CA.Ie6VpcxdATo2w-Q3SL56LcIVyqs
+#clientid *
+#clientkey *
+#clientoken *
 #permissions integer 511040
-# https://discordapp.com/oauth2/authorize?client_id=528652003371515904&scope=bot&permissions=511040
-
+# *
 #created by Anthony Skoury v2.0
 
 #libraries
